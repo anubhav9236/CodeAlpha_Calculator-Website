@@ -20,14 +20,6 @@ This project is a basic calculator that performs common arithmetic operations. I
 * Delete/Backspace
 * Real-time calculation
 * Responsive design
-
-
-https://github.com/user-attachments/assets/c087b38f-d4b5-4af2-b4b1-d0d74efe3504
-
-
-
-https://github.com/user-attachments/assets/f0b5a6c9-891f-441a-b8a1-b8cde7baded1
-
 * Simple and user-friendly interface
 
 ## 🛠️ Technologies Used
